@@ -178,8 +178,6 @@ Major gameplay systems include:
 
 * **C**
 * **ncurses**
-* **SDL2**
-* **SDL_mixer**
 * POSIX/system libraries
 * `pthread`
 
